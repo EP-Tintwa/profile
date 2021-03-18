@@ -14,4 +14,4 @@ Google Professional Data Analyst Certification Program
 
 # Portfolio
 <iframe src="https://public.tableau.com/views/RacetoBonanzaBrewery-MarchRound1/AllRounds?:showVizHome=no&:embed=true"
-<param name="filter" value=":original_view=yes"/></iframe>
+<param name="filter" value=":original_view=no"/></iframe>
